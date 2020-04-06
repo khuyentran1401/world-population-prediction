@@ -32,7 +32,7 @@ Data includes the population of 264 countries
   * Load the data on Talend ETL then transfer the data to AWS RDS
   * Connect Tableau to AWS RDS and visualize
   
-  _Find more instructions about the setup [here](https://github.com/khuyentran1401/world-population-prediction/blob/master/pdf/AWS%20and%20MySQL%20Connection%20Instruction%20-%20Arch%20Talents.pdf)_ and [here](https://docs.google.com/presentation/d/1ompgqRMrVLoMSsqvq_amTdVTw6mfsB4pZcsyi-UMiSY/edit?usp=sharing)_
+  _Find more instructions about the setup [here](https://github.com/khuyentran1401/world-population-prediction/blob/master/pdf/AWS%20and%20MySQL%20Connection%20Instruction%20-%20Arch%20Talents.pdf) and [here](https://docs.google.com/presentation/d/1ompgqRMrVLoMSsqvq_amTdVTw6mfsB4pZcsyi-UMiSY/edit?usp=sharing)_
   
 
 * Preprocessing and Model Training in Python
